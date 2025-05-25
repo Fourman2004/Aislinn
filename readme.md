@@ -1,6 +1,8 @@
 # Aislinn
 A game made by Daydream Studios at Falmouth University
 
+![DaydreamStudios](Studio_Logo.png)
+
 ## Game
 Aislinn always knew she would take over for her father one day, but that day is sooner than she thought.
 
