@@ -23,5 +23,7 @@ Aislinn is an adventure/exploration platformer following the Sandman's daughter 
 
 ## Other Repositories
 [Art - Has credit to Artists within Daydream](https://github.com/Fourman2004/Aislinn-Art.git)
+
 [Animation - Has credit to all the Animators within Daydream](https://github.com/Fourman2004/Aislinn_Animations.git)
+
 [Audio - Has credit to Audio designers within Daydream](https://github.com/Fourman2004/Aislinn_Audio.git)
